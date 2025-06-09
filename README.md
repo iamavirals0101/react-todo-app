@@ -1,5 +1,42 @@
 # Getting Started with Create React App
 
+# React To-Do List App ✅
+
+A beautiful, functional React To-Do list app with:
+
+- Add, remove, and mark tasks as completed
+- Input validation (no empty tasks)
+- Filters to show All, Active, or Completed tasks
+- Tasks saved in browser localStorage
+- Responsive and attractive card-style design
+
+## 🚀 How to Run
+
+1. Clone the repo
+   
+git clone https://github.com/iamavirals0101/react-todo-app.git
+Install dependencies
+
+cd react-todo-app
+npm install
+Start the app
+
+npm start
+Visit: http://localhost:3000 in your browser.
+
+✅ Features to Test
+Add a task (type task, press Enter or click ➕)
+
+Mark a task complete (click ✔️)
+
+Delete a task (click ❌)
+
+Switch between filters (All / Active / Completed)
+
+Refresh page to check tasks persist (localStorage)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
